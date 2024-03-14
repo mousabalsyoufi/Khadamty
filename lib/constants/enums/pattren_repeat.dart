@@ -1,0 +1,4 @@
+enum RepeatPattern {
+  toRepeat,
+  every
+}

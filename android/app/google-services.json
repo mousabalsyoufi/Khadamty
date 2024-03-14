@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "506499616271",
+    "project_id": "fdvitfaq-d5cd4",
+    "storage_bucket": "fdvitfaq-d5cd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506499616271:android:ebc9354777277c78a6dd7a",
+        "android_client_info": {
+          "package_name": "com.fdv.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506499616271-6626hie6i5bo8og0spbobqtd15sp4a3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJyNobmm3TpBn0McAINdM0LSRxt_8Ep2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506499616271-6626hie6i5bo8og0spbobqtd15sp4a3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

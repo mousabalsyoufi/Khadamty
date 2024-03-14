@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+  <g id="Group_22713" data-name="Group 22713" transform="translate(0 -0.303)">
+    <g id="Group_822" data-name="Group 822">
+      <rect id="Rectangle_468" data-name="Rectangle 468" width="35" height="35" rx="17.5" transform="translate(0 0.303)" fill="#fff"/>
+    </g>
+    <path id="_014-chat" data-name="014-chat" d="M10.5,2A8.514,8.514,0,0,0,2,10.5a7.868,7.868,0,0,0,.867,3.73v3.209a.684.684,0,0,0,.694.694H6.77A7.867,7.867,0,0,0,10.5,19a8.5,8.5,0,0,0,0-17ZM7.9,11.367a.933.933,0,0,1-.867-.867A.933.933,0,0,1,7.9,9.633a.933.933,0,0,1,.867.867A.933.933,0,0,1,7.9,11.367Zm2.6,0a.933.933,0,0,1-.867-.867.933.933,0,0,1,.867-.867.933.933,0,0,1,.867.867A.933.933,0,0,1,10.5,11.367Zm2.6,0a.933.933,0,0,1-.867-.867.867.867,0,1,1,1.735,0A.933.933,0,0,1,13.1,11.367Z" transform="translate(7 7)"/>
+    <g id="Ellipse_11" data-name="Ellipse 11" transform="translate(16 4.303)" fill="#6dfc3a" stroke="#fff" stroke-width="1">
+      <circle cx="7.5" cy="7.5" r="7.5" stroke="none"/>
+      <circle cx="7.5" cy="7.5" r="7" fill="none"/>
+    </g>
+  </g>
+</svg>
